@@ -1,23 +1,44 @@
-#  Hey, I'm Yahye Addo  
-###  Computer Engineering Student | Developer | Tech Enthusiast  
+# Computer Engineering Student | Developer | Tech Enthusiast
 
-I'm a **curious problem solver** who loves writing clean code, optimizing databases, and exploring new technologies. I enjoy breaking things down to understand how they work,and then building them back up in smarter ways.  
+I enjoy building software, exploring systems, and understanding how technology works beneath the surface. My interests include software engineering, backend development, databases, networking, security, and open-source technologies.
 
-###  What I Do  
-- **Software & Web Development** – I code in **Python, C++, Java, HTML, CSS, and JavaScript**  
-- **Databases & Backend** – I work with **SQL, MySQL, PostgreSQL, and query optimization**  
-- **Networking & Security** – I have a **CCNA certification** and experience in **network infrastructure**  
-- **Development Tools** – Git, GitHub, Docker, and cloud computing  
+## Areas of Interest
 
-###  Let's Connect  
-- **LinkedIn:** [Yahye Addo](https://www.linkedin.com/in/yahye-addo-084977202/)  
-- **Portfolio:** [My Online CV](https://addo1.github.io/Resume/)  
-- **GitHub:** [github.com/addo1](https://github.com/addo1)  
+* Software Development
 
-###  Support My Work  
-I love working on personal projects, experimenting with new ideas, and sharing what I learn. If you’d like to support my work, you can **buy me a coffee**:  
+  * Python, C++, Java, JavaScript
+  * Web applications and automation
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/addo1)
+* Databases & Backend Systems
 
----
-⭐ **Check out my repositories and feel free to connect!**
+  * SQL, MySQL, PostgreSQL
+  * Database design and query optimization
+
+* Networking & Infrastructure
+
+  * Network architecture
+  * Security fundamentals
+  * Cloud and containerized environments
+
+* Development Tools
+
+  * Git & GitHub
+  * Docker
+  * Linux
+  * CI/CD workflows
+
+## Current Focus
+
+* Building practical software projects
+* Learning distributed systems and backend architecture
+* Exploring cybersecurity and infrastructure
+* Contributing to open-source projects
+
+## Projects
+
+This profile contains personal experiments, learning projects, prototypes, and software built to explore new technologies and ideas.
+
+Feel free to explore the repositories, fork projects, or use any ideas that may be useful.
+
+⭐ Open source, learning, and continuous improvement.
+
